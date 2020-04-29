@@ -1,3 +1,3 @@
 # izvjestaji_WiSe_2019_20
 
-ovo je novi update
+evo sada pisem nesto cega nema na gitu
